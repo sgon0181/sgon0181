@@ -8,6 +8,17 @@ Previously #1 Sales Engineer in Mexico and #5 in the Americas at Cognex in 2024.
 
 ## Selected work
 
+If you have two minutes, start with AgDesk for my contribution to a team system, then the n8n workflow for independently inspectable integration code. For a deeper review, use the guide below.
+
+| What you want to evaluate | Start here | Evidence available |
+| --- | --- | --- |
+| Team delivery and engineering judgment | [AgDesk design decisions](https://github.com/sgon0181/agdesk-portfolio/blob/main/docs/DESIGN.md) | Attributed contribution case study, concurrency and evidence-integrity decisions |
+| AI integration and failure handling | [Post-call orchestrator](https://github.com/sgon0181/ai-post-call-revenue-orchestrator) | Workflow source, synthetic fixtures, local mock integration tests and CI |
+| End-to-end product delivery | [Veltact](https://github.com/sgon0181/VELTACT_PinchMe_Hackathon) | Source, demonstration, shared contracts and sandbox workflow |
+| Full-stack data and review workflows | [Karrot verification](https://github.com/sgon0181/karrot-revenue-os-portfolio/blob/main/docs/VERIFICATION.md) | Curated source, schema, 166 JS/TS tests, seven dataset-free Python tests and CI |
+
+Source repositories below are prototypes or portfolio editions, not claims of production certification. Team contributions are attributed, and confidential work is represented through case studies.
+
 ### [AgDesk and River](https://github.com/sgon0181/agdesk-portfolio)
 
 My contribution to a university team farm-operations application: scheduling interfaces, reviewed operations, document lifecycle, evidence integrity, concurrency fixes, regression testing, and an isolated voice prototype. The public case study explains my scope and design decisions. Team assessment source remains private.
